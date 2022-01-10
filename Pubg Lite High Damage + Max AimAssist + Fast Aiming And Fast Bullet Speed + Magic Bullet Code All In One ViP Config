@@ -1,0 +1,14 @@
+[Basic]
+r.AimAssist=?
+t.AimAssist=?
+AimAssist=?
++CVars=r.AimAssist=?
++CVars=AimAssit=MAX=?
+
+[SaveGames]
+T.AIMASSIST=MAX
+T.BULLETSPEED=6
+T.MAGICBULLET=MAX
+T.HIGHDAMAGE={"100%z"}
+
+#GoDŹBeast YT ##CODE
